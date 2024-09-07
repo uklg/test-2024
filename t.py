@@ -3,5 +3,9 @@ import pyperclip
 
 print('this is a test')
 
-pyperclip.copy('I love you babe')
+#pyperclip.copy('I love you babe')
 
+
+
+
+print(pyperclip.paste())
